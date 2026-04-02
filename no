@@ -1,1 +1,2 @@
 Write-Host "This is comming from GitHub"
+Read-Host -Prompt "Press any key to continue or CTRL+C to quit" | Out-Null
